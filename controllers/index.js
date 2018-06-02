@@ -1,0 +1,2 @@
+
+exports.wechat = require('./wechat');
